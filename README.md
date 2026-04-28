@@ -1,2 +1,2 @@
-![](./github-profile-animation.svg)
+![](.username/github-profile-animation.svg)
 
