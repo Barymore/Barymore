@@ -1,2 +1,1 @@
-![](https://github.com/Barymore/username/blob/main/github-profile-animation.svg)
-
+![](https://raw.githubusercontent.com/Barymore/username/main/github-profile-animation.svg)
